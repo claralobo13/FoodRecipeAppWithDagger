@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodRecipeAppWithDagger</string>
+    <string name="textview_text">This is a very long title and here it is</string>
+</resources>
